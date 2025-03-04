@@ -86,10 +86,6 @@ src/
 - `PUT /orders/:id` → Actualizar una orden
 - `DELETE /orders/:id` → Eliminar una orden
 
-## 📜 Documentación con Swagger
-Para ver la documentación generada automáticamente, accede a:
-📌 `http://localhost:3000/api`
-
 ## 📖 Licencia
 Este proyecto está bajo la licencia Miguel Angel Rivera Lozano - Andres Chambo.
 
